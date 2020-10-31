@@ -1,5 +1,5 @@
 import wordcloud
-from businessHelper import BusinessHelper
+from BusinessHelper import BusinessHelper
 
 class WordCloudHelper(BusinessHelper):
 
